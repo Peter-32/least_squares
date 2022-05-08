@@ -1,6 +1,6 @@
 ### Least Squares
 
-These notebooks include code to solve the least squares.
+These are Python scripts for minimizing the residual sum of squares, commonly called the least squares.
 
 What is included is:
 - How to draw a line to 2D data
